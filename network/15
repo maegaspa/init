@@ -1,0 +1,2 @@
+Dans le dossier /etc/hosts -> Ajouter 46.19.122.85 intra.42.fr
+Important : mettre le sens IP Nom-Domaine pour faire pointer le nom de domaine vers l'adresse.
